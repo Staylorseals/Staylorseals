@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sierrena Taylor-Seals</h1>
 <h3 align="center">A rapidly upskilling junior full-stack developer from Wisconsin</h3>
 
-- 🌱 I’m currently learning **c# and SQL**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Staylorseals](https://github.com/Staylorseals)
-
-- 💬 Ask me about **react, python, JavaScript**
-
-- 📫 How to reach me **sierrena.taylor@outlook.com**
+- 🌱 Full-Stack Developer | React | JavaScript | Python | Flask | SQL
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sierrena-taylor-seals-19b68a359/](https://www.linkedin.com/in/sierrena-taylor-seals-19b68a359/)
 
-- ⚡ Fun fact **I'm also a creative writer and digital artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
