@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sierrena Taylor-Seals</h1>
 <h3 align="center">A rapidly upskilling junior full-stack developer from Wisconsin</h3>
 
-- 🌱 Full-Stack Developer | React | JavaScript | Python | Flask | SQL
+- 🌱 Full-Stack Developer | React | JavaScript | Python | Flask | SQL | node.js
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sierrena-taylor-seals-19b68a359/](https://www.linkedin.com/in/sierrena-taylor-seals-19b68a359/)
 
